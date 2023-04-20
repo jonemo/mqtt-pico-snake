@@ -1,0 +1,16 @@
+MQTT Snake
+==========
+
+This code was used for a live demo during a presentation at Pycon 
+US 2023 in Salt Lake City. It contains a Snake game variant that
+publishes its current score and subscribes to scores from other 
+players. 
+
+The software is written for Micropython running on a Raspberry Pi
+Pico W controller with a Waveshare Pico-LCD-1.14 screen. 
+
+The presentation website is at https://jonasneubert.com/talks/pycon2023.html
+
+This work contains derivative work of third parte code and graphics. 
+See the LICENSE file for details license and copyright information and 
+attributions.
